@@ -2,7 +2,7 @@
 
 A Machine Learning-based web application designed to identify fraudulent credit card transactions. This project uses a classification model to analyze transaction patterns and predict whether a transaction is legitimate or a potential fraud.
 
-## 🚀 Features
+# 🚀 Features
 * **Machine Learning Backend:** Uses Python and Scikit-Learn to process and classify transaction data.
 * **Web Interface:** A clean, user-friendly HTML/CSS frontend for manual transaction checking.
 * **Real-time Prediction:** Enter transaction details and get an instant "Safe" or "Fraud" result.
